@@ -13,7 +13,7 @@ Data:
 
 ## Added experiment
 
-With AI assistance, I extended the notebook with:
+I extended the notebook with:
 - A stratified 80/20 training and test split.
 - A pipeline combining StandardScaler and logistic regression.
 - Balanced class weights.
